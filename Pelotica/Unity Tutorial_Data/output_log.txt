@@ -19,11 +19,11 @@ Platform assembly: C:\Users\hteva\OneDrive\Documents\UNITY\UnityStuff\Pelotica\U
 Loading C:\Users\hteva\OneDrive\Documents\UNITY\UnityStuff\Pelotica\Unity Tutorial_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
 Platform assembly: C:\Users\hteva\OneDrive\Documents\UNITY\UnityStuff\Pelotica\Unity Tutorial_Data\Managed\System.dll (this message is harmless)
 Platform assembly: C:\Users\hteva\OneDrive\Documents\UNITY\UnityStuff\Pelotica\Unity Tutorial_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.196 seconds
+- Completed reload, in  0.027 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.750692 ms
+UnloadTime: 1.855396 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1ce8 -> priority: 1 
-  Thread -> id: 2f38 -> priority: 1 
+  Thread -> id: 1554 -> priority: 1 
+  Thread -> id: 104c -> priority: 1 
