@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerT", "TowerT.csproj", "{473C7DED-9BA8-46E8-3994-AB8F1F2E0DC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{473C7DED-9BA8-46E8-3994-AB8F1F2E0DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473C7DED-9BA8-46E8-3994-AB8F1F2E0DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473C7DED-9BA8-46E8-3994-AB8F1F2E0DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473C7DED-9BA8-46E8-3994-AB8F1F2E0DC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
