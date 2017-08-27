@@ -22,6 +22,7 @@ GameObject:
   - component: {fileID: 33309749516930712}
   - component: {fileID: 135377768726493962}
   - component: {fileID: 23954301302035046}
+  - component: {fileID: 114041666235295516}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -81,6 +82,18 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1010049796884902}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &114041666235295516
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1010049796884902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62dffdc3da4bd15488291920a3e4e639, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10
 --- !u!135 &135377768726493962
 SphereCollider:
   m_ObjectHideFlags: 1
